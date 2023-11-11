@@ -1,1 +1,12 @@
-coustomer registration page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>registration page</title>
+</head>
+<body>
+    <marquee>it is a registration page</marquee>
+    
+</body>
+</html>
+
